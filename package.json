@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/snastacia/Employee-Tracker#readme",
   "dependencies": {
-    "dotenv": "^16.0.3",
-    "inquirer": "^8.2.4",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.6",
     "mysql2": "^3.6.0"
   }
 }
