@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-Link to video demo:
+Application Demo: https://drive.google.com/file/d/1nrZA2nEvuseitDGdzcxfuqGGFrYnOpRw/view  
 
 ## Description
 
@@ -53,4 +53,4 @@ MIT License
 
 ## Credits
 
--Referenced activites and mini project in Module 12 to aid with writing code 
+Utilized Module 12 activities and the mini project as references to assist in coding.
